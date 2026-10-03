@@ -2,7 +2,7 @@ This repository contains open course materials for Engineering Mathematics – I
 
 Supplementary notes are optional and non-examinable. They are provided for students who wish to explore a topic beyond the syllabus.
 
-Dr. Kanchan Rajwar, Department of Mathematics, IIIT Bhopal.
+Dr. Kanchan Rajwar, Department of Mathematics, IIIT Bhopal. Contact: kanchan.rajwar@iiitbhopal.ac.in
 
 This material is licensed under CC BY-NC 4.0 — free to use for educational purposes with attribution. Not for commercial use.
 
